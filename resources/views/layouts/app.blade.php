@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta charset="UTF-8" />
     <meta name="description" content="Male_Fashion" />
     <meta name="csrf-token" content="{{ csrf_token() }}" />
