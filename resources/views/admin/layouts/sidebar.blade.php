@@ -2,8 +2,8 @@
     <div class="app-brand demo">
         <a href="{{route('home')}}" class="app-brand-link">
             <span class="app-brand-logo demo">
-            <img src="{{ asset('img/logo-light.webp') }}" alt="logo">
-            </span>            
+                <img src="{{ asset('img/logo-fstyle-sm.png') }}" alt="logo">
+            </span>
         </a>
 
         <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
