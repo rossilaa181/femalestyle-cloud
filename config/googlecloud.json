@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lexical-helix-364608",
+  "private_key_id": "9435edfc66dde22344093ab70985efd3bda46c81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDGyGx9gOSHWmkR\nna0s/tEyq9w232QWsGT8Mh3r9n3VvSBRYKdGAeTilYRFZXDEXpkHmrnDL5uVyN17\nEsRxgc9R5GSlTdodygNZAaiZ0hpaICmNl3RrbSiJUawGFoYN0RnnRLNeikTt5AQ+\nyNFo1AffZ4hQoKRx2+4H3pFw3vLi390VVHF4c0n8YLNXKdhdIPO3ZlM3YOyy3Ipy\nn907XE2140srLNgDz5A2BZAzraA+rIvctn9PO5vk2M1eHJ2fsH4xIhBJe6ZhdX5p\npWhUhqmxpdZH917cfcIlXPpk+HR/kvSGx3sSr+9SDcSj1sZqNPRZm5F47XMO1q79\n7ygl+M+jAgMBAAECggEAXic5Z9qgo9G5eXwPNgQ+Dzui0yTNUgfb1S5hyM2YPaBW\nieT3Zevovz/lhj8tgf1yi00IlsBad8BL04sIm+DJ03aUC04MNVblbgeglbcT/0ND\nm0q0/FsYO66BBeMuPKYhmE6MjQd97ZW2Qwy4T2g6kGEICnSEX1+152lOx0D6l2Vu\nYIJd1qDjN7tImNoBsJyjkVs6DmCy2caUDuQdRtNXyQ3ZT5jYTK/7ha3Ofrm5EXWM\nGAalLsPnepi5rbqz+KTcjRXHXuCe0sv0qyopAG5P2F4i+5UL2CSZMWVGoIsv7197\n5hYqWHLd7ZhjWvZvlM50O+M1MkICobMFuVFHzPjhZQKBgQDt5iSbDo1WKVT5G2Rg\n/6Qd5LhqtDHVLlNUc5SVHNzTO6Kesj4vknCWRPye3iXE4CQMxYvBny4R2Qq93vb2\nrTI7LKakIqMWt3cAFjyiixL/dv2UE72Gub0XSfZxbACLTyKAXY6E7kyjjpCNq1A1\nGS+dupLrgmqFPThJASi6rTujxQKBgQDV6F4fAQb4fcFMq6/OHEvb2w9cJKJDiESy\nLiIWZOoIfwwTR73ZTEcWTC/Dnt6jTwHYyvM6gMau0+zvZDFR7QGV9l9z+yMEjc2x\nJakKUJfc7R1hRMxQ78UdKSyh69hEacXz2V/RYlu/L2cng1Mlp1m0gKXqCtrq2i+m\nVP5VTkcURwKBgQDlUGYQoKJUX1rtFB5Z8ZF8zy+Ei1VNrG3ehdq/MSca5e0HE8El\nkf68mpr3eCLn9zZIqVLhvFJoGdJk2zsq5B/7MjsfE9Qo3YfzqXuhInWZklU0GyMh\nboB6pmzLP9P2dL1JBuWN9TYiohVsuamCxVhErcdZBEkxTaWnmVptNva6EQKBgH1b\ngyU6TeJ8mDadexcYICDFPTgrw+g9yLx/KrzjAQBfrCz0Yz8gY5yeo3NJ/IHKQHPT\nZD2J0GYOjpEwr3Kqqb4/t2rZ54i4ra2+O1VvK8BuOUSStAZOrb7MLXrrIz/cmQSy\nBGRJ9yiQ2Cwg2y5656hPqGwDVo5BtaENuEs355HrAoGBAN74RzEmVGSoFGt5i/HH\nJwmndY8hwDZz6gPagSd5W99WjqYO2GDyocb6L2fMa3zyl4pMKZ2UhjAVftJglq8o\n1lGJgVLJ10JIT5gvCkyQ20lTXkn4yN44actb3xgW9gN64iy4M90rG3oPT74fxrZP\nVCv6bMF5mrT3kvuSYEYt8Rfh\n-----END PRIVATE KEY-----\n",
+  "client_email": "femalestyle-cloud-385@lexical-helix-364608.iam.gserviceaccount.com",
+  "client_id": "104035655100899963499",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/femalestyle-cloud-385%40lexical-helix-364608.iam.gserviceaccount.com"
+}
